@@ -77,16 +77,10 @@ QA Automation Tester | Python & Playwright | Web Automation | Data Validation (F
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somasaic&show_icons=true&locale=en&layout=compact" />
-</p>
+![Soma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somasaic&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somasaic&show_icons=true&locale=en" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somasaic&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somasaic" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=somasaic&theme=tokyonight)
