@@ -72,15 +72,16 @@ Multi-region data extraction from dynamic platforms — async UI handling, calen
 
 ### 🛠️ Tech Stack
 
-![Playwright](https://playwright.dev/img/playwright-logo.svg "Playwright" )
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "TypeScript")
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "Python")
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "JavaScript")
-![Pytest](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg "Pytest")
-![GitHub Actions](https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg "GitHub Actions")
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg "Git")
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg "Docker (learning)")
-![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg "Jenkins (learning)")
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 **Automation:** Playwright · Selenium · Pytest · Data-Driven Testing · AI-Assisted Testing  
 **Languages:** TypeScript · Python · JavaScript  
