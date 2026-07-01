@@ -70,6 +70,17 @@ Multi-region data extraction from dynamic platforms — async UI handling, calen
 
 ---
 
+#### 🔗 [Jira Agent Platform](https://github.com/somasaic/Jira-Agent)
+> **JavaScript + React + Vite** | AI | JIRA API | GROQ | Deployed on Vercel
+
+AI-powered QA platform that generates formal Test Plans and Test Strategies directly from JIRA issues.
+- B.L.A.S.T. Framework + A.N.T. 3-Layer Architecture
+- Test Plan Generator (WHEN & HOW) + Test Strategy Buddy (WHAT & WHY)
+- JIRA API + GROQ LLM integration — no manual documentation needed
+- Live: [jira-agent.vercel.app](https://jira-agent.vercel.app)
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
