@@ -1,6 +1,6 @@
 # Hi 👋, I'm Soma Sai Dinesh Cheviti
 
-### SDET | Playwright · TypeScript · Python | AI-Assisted Testing | Fintech & Payments Domain
+### Automation Test Engineer | Playwright · TypeScript · Python | SDET | API Testing | CI/CD
 
 [![Profile Views](https://komarev.com/ghpvc/?username=somasaic&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/somasaic)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid-brightgreen?style=flat)](https://www.linkedin.com/in/somasaidinesh)
@@ -8,76 +8,44 @@
 
 ---
 
-### 🎯 What I Do
-
-I build automation frameworks that **actually scale** — not just scripts that pass locally. My focus is Playwright-based end-to-end automation for **Fintech and Payments domains**, with CI/CD pipelines and AI-assisted testing workflows.
-
-**Signature project:** Replaced a 3-day manual payment method validation cycle across 10+ country merchant sites with a fully automated Playwright + Python framework — reducing effort by ~40–50%.
-
----
-
 ### 👨‍💻 About Me
 
-- 🏢 2 years at **Echno Technologies** — enterprise finance-domain QA automation
-- 🌍 Validated payment acceptance across **10+ country-specific merchant websites** (US, UK, DE, JP, AU, SG, HK, CA)
-- 🤖 Building with **AI-assisted testing** — Playwright MCP, agent-based QA workflows, prompt engineering for test generation
-- 📚 Currently enrolled in **Playwright Mastery 2026** with Pramod Dutta (90-day intensive)
-- 🎯 Targeting **product company SDET roles** — Playwright + TypeScript stack
+- 🏢 **Automation Test Engineer, 3.6+ years** — currently on an enterprise payroll platform (Oracle client engagement) serving 50,000+ employees
+- 🎯 Architected a Playwright + TypeScript framework from scratch — 95%+ test coverage, 200+ automated test cases, cut manual testing effort by 60%
+- 💳 Independently delivered data-driven Playwright automation for a confidential fintech/payments client — cut release validation from 3 days to under 2 hours
+- 🤖 Self-directed in AI-assisted QA — MCP, AI agents, prompt engineering, LLM evaluation
+- 📚 Completed **Playwright Mastery 2026** · completing **AI Testers Blueprint for QA Workflows** (The Testing Academy, mentored by Pramod Dutta)
 
 ---
 
-### 🚀 Current Focus — Playwright Mastery 2026
+### 🚀 Skill Areas
 
-| Area | Topics |
-|---|---|
-| 🎭 Core Automation | Playwright + TypeScript (advanced patterns, POM, fixtures) |
-| 🤖 AI Testing | AI-Powered Testing & Prompt Engineering for QA |
-| ⚙️ CI/CD | GitHub Actions pipelines for test automation |
-| 🐳 DevOps | Docker + Jenkins automation |
-| 🔁 Workflow | n8n automation integration |
-| 🔌 API | API Testing & test architecture design |
+| Area              | Topics                                                        |
+| ----------------- | -------------------------------------------------------------- |
+| 🎭 Core Automation | Playwright + TypeScript, Page Object Model, Page Factory Model |
+| 🤖 AI Testing      | MCP, AI agents for QA, prompt engineering, LLM eval, DeepEval  |
+| ⚙️ CI/CD          | Jenkins, GitHub Actions, parallel execution                    |
+| 🔌 API             | REST, GraphQL, Postman, contract testing                       |
+| 🗄️ Data           | Oracle SQL, MySQL, SQL Server, data-driven frameworks           |
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🔗 [Global Payment Method Validation Framework](https://github.com/somasaic/payment-validation-framework)
-> **Python + Playwright** | Fintech | Data-Driven | CI/CD
-
-Multi-region payment method detection across 12 merchant sites (US, UK, DE, JP, AU, SG, HK, CA).
-- 4-layer confidence scoring engine (network interception + DOM + image + CSS)
-- AUTO_ACCEPT / REVIEW / AUTO_REJECT classification per method per merchant
-- CSV → structured report output with screenshot evidence
-- CI pipeline: unit tests → parallel per-region runs → nightly full scan
-- **Result: 3-day manual QA cycle → under 2 hours automated**
-
----
-
 #### 🔗 [SDET STLC Portfolio](https://github.com/somasaic/sdet-stlc-portfolio)
-> **Playwright + TypeScript** | MCP | JIRA | Full STLC
+> **Playwright + TypeScript** | MCP · AI Agents · Visual Regression | Full STLC
 
-End-to-end STLC applied to a real product — two approaches side by side:
-- `Block_A_Manual/` → Traditional STLC: PRD analysis, test cases, bug reports
-- `STLC_MCP_Project/` → AI-assisted: Playwright MCP + JIRA MCP automation
-- GitHub Actions CI/CD integrated
-
----
-
-#### 🔗 [Playwright Web Automation — Multi-Region](https://github.com/somasaic/playwright-web-automation-python)
-> **Python + Playwright** | CSV-driven | JSON output
-
-Multi-region data extraction from dynamic platforms — async UI handling, calendar interactions, structured JSON output.
-
----
+5-approach automation suite applying the full STLC to one real application — Manual QA → Standard CLI (POM, cross-browser, CI) → UI+API dual-layer testing (14x speed gain) → MCP-assisted STLC (Playwright MCP + JIRA MCP, 4.5x faster than manual) → AI Agents with visual regression (planner/generator/healer, `toHaveScreenshot()`). 54+ automated tests across 4 fully green GitHub Actions CI pipelines.
 
 #### 🔗 [Jira Agent Platform](https://github.com/somasaic/Jira-Agent)
-> **JavaScript + React + Vite** | AI | JIRA API | GROQ | Deployed on Vercel
+> **JavaScript + React + Vite** | AI | JIRA API | GROQ | Deployed on Vercel *(In Progress)*
 
-AI-powered QA platform that generates formal Test Plans and Test Strategies directly from JIRA issues.
-- B.L.A.S.T. Framework + A.N.T. 3-Layer Architecture
-- Test Plan Generator (WHEN & HOW) + Test Strategy Buddy (WHAT & WHY)
-- JIRA API + GROQ LLM integration — no manual documentation needed
-- Live: [jira-agent.vercel.app](https://jira-agent.vercel.app)
+AI-powered QA platform generating formal Test Plans and Test Strategies directly from JIRA issue IDs — JIRA API + GROQ LLM integration, B.L.A.S.T. Framework + A.N.T. 3-layer architecture. Live: [jira-agent-asky.vercel.app](https://jira-agent-asky.vercel.app)
+
+#### 🔗 [Payment Validation Framework](https://github.com/somasaic/payment-validation-framework)
+> **Python + Playwright** | Data-Driven | Fintech Domain | Independent Contract, May 2024 – Dec 2025
+
+Data-driven Playwright automation validating payment acceptance across 10+ country-specific merchant sites for a confidential payments client. Cut release validation time from 3 days to under 2 hours (40–50% effort reduction); uncovered silent backend payment failures in 15–30% of transactions that manual testing had structurally been unable to catch. Refactored a fixed-sleep-based framework to conditional waits + strict POM after a release-blocking failure.
 
 ---
 
@@ -91,14 +59,12 @@ AI-powered QA platform that generates formal Test Plans and Test Strategies dire
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-**Automation:** Playwright · Selenium · Pytest · Data-Driven Testing · AI-Assisted Testing  
-**Languages:** TypeScript · Python · JavaScript  
-**CI/CD:** GitHub Actions · Jenkins · Docker  
-**Tools:** Git · Postman · n8n · Playwright MCP  
-**Domain:** Fintech · Payments · Multi-region merchant validation
+**Automation:** Playwright · Pytest · API Testing · Data-Driven Testing · AI-Assisted Testing
+**Languages:** TypeScript · Python · JavaScript
+**CI/CD:** GitHub Actions · Jenkins
+**Tools:** Git · Postman · MCP · JIRA
 
 ---
 
@@ -106,8 +72,7 @@ AI-powered QA platform that generates formal Test Plans and Test Strategies dire
 
 - Playwright automation (TypeScript + Python)
 - Data-driven frameworks with CSV/JSON inputs
-- Payment flow & multi-region UI validation
-- AI-assisted QA workflows and Playwright MCP
+- AI-assisted QA workflows — MCP, AI agents, prompt engineering for testing
 - GitHub portfolio strategy for SDET roles
 
 ---
@@ -124,8 +89,6 @@ AI-powered QA platform that generates formal Test Plans and Test Strategies dire
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somasaic&show_icons=true&theme=tokyonight)](https://github.com/somasaic)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somasaic&layout=compact&theme=tokyonight)](https://github.com/somasaic)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=somasaic&theme=tokyonight)](https://github.com/somasaic)
 
 ---
 
