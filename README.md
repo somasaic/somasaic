@@ -1,6 +1,6 @@
 # Hi 👋, I'm Soma Sai Dinesh Cheviti
 
-### Automation Test Engineer | Playwright · TypeScript · Python | SDET | API Testing | CI/CD
+###  SDET | Automation Test Engineer | Playwright (TS/JS/Python) | AI-Assisted Testing (MCP, AI Agents) | API & CI/CD Testing | 3.6+ Yrs Enterprise QA |
 
 [![Profile Views](https://komarev.com/ghpvc/?username=somasaic&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/somasaic)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%7C%20Hybrid-brightgreen?style=flat)](https://www.linkedin.com/in/somasaidinesh)
